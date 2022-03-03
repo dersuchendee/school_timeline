@@ -31,7 +31,7 @@ body {
   opacity: 0;
 }
 .timeline-carousel .slick-list {
-  overflow: visible;
+  overflow: hidden;
 }
 .timeline-carousel .slick-dots {
   bottom: -73px;
@@ -44,14 +44,14 @@ body {
   font-weight: 900;
 }
 .timeline-carousel__image {
-  padding-right: 30px;
+  padding-right: 20px;
 }
 .timeline-carousel__item {
   cursor: pointer;
 }
 .timeline-carousel__item .media-wrapper {
   opacity: 0.4;
-  padding-bottom: 41.4%;
+  padding-bottom: 31.4%;
   -webkit-transition: all 0.4s cubic-bezier(0.55, 0.085, 0.68, 0.53);
   -o-transition: all 0.4s cubic-bezier(0.55, 0.085, 0.68, 0.53);
   transition: all 0.4s cubic-bezier(0.55, 0.085, 0.68, 0.53);
